@@ -15,7 +15,7 @@
     ?>
     </p>
     <p>
-    	<a href="http://1000334.webazuresites.net/Default.aspx">Back to .NET webpage</a>
+    	<a href="http://1000334.azurewebsites.net/Default.aspx">Back to .NET webpage</a>
     </p>
     </div>
   </body>
