@@ -6,7 +6,7 @@
     <?php
 	echo "Windows Azure + GitHub + PHP" ;
 	echo "<br />";
-	echo "<strong>Azure</strong> definitely rocks!;"
+	echo "<strong>Azure</strong> definitely rocks!" ;
     ?>
   </body>
 </html>
