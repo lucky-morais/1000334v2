@@ -15,6 +15,9 @@
     ?>
     </p>
     <p>
+            Paulo Costa: <a href="mailto:1000334@isep.ipp.pt">1000334@isep.ipp.pt</a>
+        </p>
+    <p>
     	<a href="http://1000334.azurewebsites.net/Default.aspx">Back to .NET webpage</a>
     </p>
     </div>
