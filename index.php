@@ -6,6 +6,7 @@
   </head>
   <body>
   <div id="myDiv">
+  	<h2>PHP running within Microsft Azure</h2>
    <p>
     <?php
 	echo "Windows Azure + GitHub + PHP" ;
