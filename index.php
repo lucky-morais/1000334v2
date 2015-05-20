@@ -14,6 +14,9 @@
 	echo "<strong>Azure</strong> definitely rocks!" ;
     ?>
     </p>
+    <p>
+    	<a href="1000334.webazuresites.net/Default.aspx">Back to .NET webpage</a>
+    </p>
     </div>
   </body>
 </html>
